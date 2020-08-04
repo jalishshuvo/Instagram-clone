@@ -1,0 +1,11 @@
+.app__headerLogo {
+  object-fit: contain;
+  margin-left: 10px;
+}
+/* .app__header {
+  background-color: white;
+  padding: 10px;
+  border: 1px solid lightgray;
+  align-items: center;
+  
+} */
